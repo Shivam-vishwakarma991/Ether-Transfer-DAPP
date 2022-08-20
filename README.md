@@ -17,3 +17,11 @@ and contract address, hardhat really makes the Smart-contract deployement over B
                                                  This is a fully responsive mobile view.
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/84992044/185733574-0e65c12f-edec-4664-b3e3-a9f0a7253a7a.png)
+
+
+                                           Metamask loading after clicking the connect wallet button
+![Screenshot (31)](https://user-images.githubusercontent.com/84992044/185733641-57a9f44d-94dc-4773-8902-b59919fb96a8.png)
+
+
+                                                After connecting with the metamask account
+![Screenshot (41)](https://user-images.githubusercontent.com/84992044/185733692-cfcef957-e09e-4d26-8eea-ad846bc335e3.png)
