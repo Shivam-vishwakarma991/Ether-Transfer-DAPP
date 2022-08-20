@@ -16,11 +16,15 @@ Metamask loading after clicking the connect wallet button
 After connecting with the metamask account
 ![Screenshot (41)](https://user-images.githubusercontent.com/84992044/185733692-cfcef957-e09e-4d26-8eea-ad846bc335e3.png)
 
+Metamask asking for confirmation
+![Screenshot (51)](https://user-images.githubusercontent.com/84992044/185734853-26fb8779-8ee3-4865-9bee-da6718c962dd.png)
 
 
 Ether has been sent succesfully
-![Screenshot (49)](https://user-images.githubusercontent.com/84992044/185734100-517d152b-8b62-4f4a-81a8-04208f922790.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/84992044/185734885-196e51f2-a5bc-4a51-bf5a-5f9c2607bcb1.png)
+
 
 
 Ether received succesfully
-![Screenshot (50)](https://user-images.githubusercontent.com/84992044/185734145-f3a0d6ac-411d-4462-84e2-3ac73bbfb8cc.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/84992044/185734898-c748081b-aec3-4c96-8ab3-4ae4a30c4c65.png)
+
