@@ -9,26 +9,18 @@ and contract address, hardhat really makes the Smart-contract deployement over B
 
 
 This is the Desktop view.
-![Screenshot (45)](https://user-images.githubusercontent.com/84992044/185729961-c7a3bb07-83d3-4054-ba80-d9d5be98bb2c.png)
-
-                                                 
-
-                                                 This is a fully responsive mobile view.
-
+![Screenshot (45)](https://user-images.githubusercontent.com/84992044/185729961-c7a3bb07-83d3-4054-ba80-d9d5be98bb2c.png)                         This is a fully responsive mobile view.
 ![Screenshot (44)](https://user-images.githubusercontent.com/84992044/185733574-0e65c12f-edec-4664-b3e3-a9f0a7253a7a.png)
-
-
-                                           Metamask loading after clicking the connect wallet button
+Metamask loading after clicking the connect wallet button
 ![Screenshot (31)](https://user-images.githubusercontent.com/84992044/185733641-57a9f44d-94dc-4773-8902-b59919fb96a8.png)
-
-
-                                                After connecting with the metamask account
+After connecting with the metamask account
 ![Screenshot (41)](https://user-images.githubusercontent.com/84992044/185733692-cfcef957-e09e-4d26-8eea-ad846bc335e3.png)
 
 
-                                                Ether has been sent succesfully
+
+Ether has been sent succesfully
 ![Screenshot (49)](https://user-images.githubusercontent.com/84992044/185734100-517d152b-8b62-4f4a-81a8-04208f922790.png)
 
 
-                                                   Ether received succesfully
+Ether received succesfully
 ![Screenshot (50)](https://user-images.githubusercontent.com/84992044/185734145-f3a0d6ac-411d-4462-84e2-3ac73bbfb8cc.png)
