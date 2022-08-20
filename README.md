@@ -16,21 +16,24 @@ This is a fully responsive mobile view.
 
 
 Metamask loading after clicking the connect wallet button
-![Screenshot (55)](https://user-images.githubusercontent.com/84992044/185735026-c06ad7dd-caf2-43f2-9c0b-36ee5efba65c.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/84992044/185735261-e9b98952-a9d4-4050-8a98-04feb7f99187.png)
+
 
 
 After connecting with the metamask account
-![Screenshot (41)](https://user-images.githubusercontent.com/84992044/185733692-cfcef957-e09e-4d26-8eea-ad846bc335e3.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/84992044/185735230-94acc355-7c29-4ead-b93b-42af48ad7a3e.png)
+
 
 
 Metamask asking for confirmation
-![Screenshot (51)](https://user-images.githubusercontent.com/84992044/185734853-26fb8779-8ee3-4865-9bee-da6718c962dd.png)
+![Screenshot (51)](https://user-images.githubusercontent.com/84992044/185735185-abb5370e-0284-49ee-9fcf-53089f9036db.png)
 
 
 Ether has been sent succesfully
-![Screenshot (53)](https://user-images.githubusercontent.com/84992044/185734885-196e51f2-a5bc-4a51-bf5a-5f9c2607bcb1.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/84992044/185735127-616df55e-da63-448d-9b74-b3eadcc72adb.png)
 
 
 Ether received succesfully
-![Screenshot (52)](https://user-images.githubusercontent.com/84992044/185734898-c748081b-aec3-4c96-8ab3-4ae4a30c4c65.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/84992044/185735161-2664f445-461f-42a3-9603-e065377e43d1.png)
+
 
