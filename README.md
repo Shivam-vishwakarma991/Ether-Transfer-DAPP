@@ -1,9 +1,18 @@
-# Ether-Transfer
+# Ether-Transfer 
 Web 3.0 platform that allows users to send Ethereum through the blockchain by connecting the Metamask wallet.
-The app is called Krypt it's a crypto wallet deployed on Goerli testnet where a user can make secure and easy transactions, it transfers Ether over other addresses anywhere across the globe.Krypt is completely responsive and is built using React.
-Used tailwind-css for the styling of this app, Hardhat as a development environment to create Contract ABI and conract address hardhat really makes the Smart-contract deployement over Blockchain hassel-free and quick. Connecting to Ethereum blockchains is messy and complicated so i've used Infura to do that work INFURA is bassically a set of tools for anyone to create an application that connects to the Ethereum blockchain. It interacts with the Ethereum blockchain and runs nodes on behalf of its users.
+The Dapp is called Krypt it's a crypto wallet deployed on Goerli testnet where a user can make secure and easy transactions, it transfers Ether over other addresses anywhere across the globe. Krypt is completely responsive and is built using React, node.js, and used ether.js for connecting to ethereum: metamask, Metamask provides a connection to the Ethereum network (a Provider) and Holds your private key and can sign things (a Signer).
+Used tailwind-css for the styling of this app,
+Used solidity to write smartContract
+Hardhat as a development environment to create Contract ABI(In order to communicate with the Contract on-chain, this class needs to know what methods are available and how to encode and decode the data, which is what the Application Binary Interface (ABI) provides.) 
+and contract address, hardhat really makes the Smart-contract deployement over Blockchain hassel-free and quick. Connecting to Ethereum blockchains is messy and complicated so i've used Infura to do that work INFURA is bassically a set of tools for anyone to create an application that connects to the Ethereum blockchain. It interacts with the Ethereum blockchain and runs nodes on behalf of its users.
 
-                       This is the Desktop view.
+
+
+
+                                                  This is the Desktop view.
 ![Screenshot (45)](https://user-images.githubusercontent.com/84992044/185729961-c7a3bb07-83d3-4054-ba80-d9d5be98bb2c.png)
 
+                                                 
 
+                                                 This is a fully responsive mobile view.
+![Screenshot (45)](https://user-images.githubusercontent.com/84992044/185733527-5599d563-7ccb-4878-b528-bd57b16a6d05.png)
