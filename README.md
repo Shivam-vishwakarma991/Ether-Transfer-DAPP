@@ -8,8 +8,7 @@ and contract address, hardhat really makes the Smart-contract deployement over B
 
 
 
-
-                                                  This is the Desktop view.
+This is the Desktop view.
 ![Screenshot (45)](https://user-images.githubusercontent.com/84992044/185729961-c7a3bb07-83d3-4054-ba80-d9d5be98bb2c.png)
 
                                                  
