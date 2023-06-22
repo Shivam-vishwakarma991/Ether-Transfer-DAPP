@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ether-Transfer-DAPP/static/css/main.8fd229b7.css",
+    "main.js": "/Ether-Transfer-DAPP/static/js/main.836da4fb.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Ether-Transfer-DAPP/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/Ether-Transfer-DAPP/index.html",
+    "main.8fd229b7.css.map": "/Ether-Transfer-DAPP/static/css/main.8fd229b7.css.map",
+    "main.836da4fb.js.map": "/Ether-Transfer-DAPP/static/js/main.836da4fb.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Ether-Transfer-DAPP/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fd229b7.css",
+    "static/js/main.836da4fb.js"
+  ]
+}
